@@ -614,7 +614,7 @@ work directory     <- init, clone
 ### Links
 
 * http://git-scm.com/book
-* http://software-carpentry.org/v5/novice/git/index.html
+* http://swcarpentry.github.io/git-novice/
 * http://www.linux.com/news/featured-blogs/185-jennifer-cloer/821541-10-years-of-git-an-interview-with-git-creator-linus-torvalds
 * https://gun.io/blog/how-to-github-fork-branch-and-pull-request/
 * http://christoph.ruegg.name/blog/git-howto-revert-a-commit-already-pushed-to-a-remote-reposit.html
