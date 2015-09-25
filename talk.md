@@ -4,7 +4,7 @@
 
 ### KTH Royal Institute of Technology
 
-Software Carpentry Workshop Potsdam 2015-04-13
+Software Carpentry Workshop Potsdam 2015-09-23
 
 ---
 
